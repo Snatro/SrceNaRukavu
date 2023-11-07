@@ -1,0 +1,17 @@
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\bin\Debug\net6.0\SrceNaRukavu.Application.deps.json
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\bin\Debug\net6.0\SrceNaRukavu.Application.runtimeconfig.json
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\bin\Debug\net6.0\SrceNaRukavu.Application.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\bin\Debug\net6.0\SrceNaRukavu.Application.pdb
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\bin\Debug\net6.0\SrceNaRukavu.Domain.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\bin\Debug\net6.0\SrceNaRukavu.Domain.pdb
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.csproj.AssemblyReference.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.AssemblyInfoInputs.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.AssemblyInfo.cs
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.csproj.CoreCompileInputs.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.csproj.CopyComplete
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\refint\SrceNaRukavu.Application.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.pdb
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\SrceNaRukavu.Application.genruntimeconfig.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Application\obj\Debug\net6.0\ref\SrceNaRukavu.Application.dll

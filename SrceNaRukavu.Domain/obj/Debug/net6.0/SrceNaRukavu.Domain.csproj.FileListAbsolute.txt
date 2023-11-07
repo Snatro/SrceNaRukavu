@@ -1,0 +1,14 @@
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\bin\Debug\net6.0\SrceNaRukavu.Domain.deps.json
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\bin\Debug\net6.0\SrceNaRukavu.Domain.runtimeconfig.json
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\bin\Debug\net6.0\SrceNaRukavu.Domain.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\bin\Debug\net6.0\SrceNaRukavu.Domain.pdb
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.csproj.AssemblyReference.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.AssemblyInfoInputs.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.AssemblyInfo.cs
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\refint\SrceNaRukavu.Domain.dll
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.pdb
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\SrceNaRukavu.Domain.genruntimeconfig.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Domain\obj\Debug\net6.0\ref\SrceNaRukavu.Domain.dll
