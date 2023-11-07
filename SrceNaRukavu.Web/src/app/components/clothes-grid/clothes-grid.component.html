@@ -1,0 +1,18 @@
+
+  <div>
+
+    <button mat-raised-button (click)="addNewCloth()" [hidden]="hiddenButton()" class="new-cloth-button">Add new cloth</button>
+  </div>
+  <mat-grid-list cols="3" rowHeight="1:1">
+    <mat-grid-tile class="item" *ngFor="let product of products">
+      <div class="content">
+        <div class="image-container">
+          <img src="{{ product.image }}" class="image" />
+        <div class="overlay">
+          <button (click)="seeInfo(product)" mat-raised-button color="primary">See more</button>
+        </div>
+        </div>
+      </div>
+    </mat-grid-tile>
+  </mat-grid-list>
+

@@ -1,0 +1,37 @@
+<div mat-dialog-container>
+  <form [formGroup]="validateForm" class="vertical-form" (submit)="submitForm()">
+<mat-form-field>
+  <mat-label>Name</mat-label>
+  <input matInput required formControlName="name">
+</mat-form-field>
+<mat-form-field>
+  <mat-label>Category</mat-label>
+  <mat-select formControlName="categoryId" required>
+  <mat-option *ngFor="let category of categories" [value]="category.id">
+    {{category.name}}
+  </mat-option>  
+  </mat-select>
+</mat-form-field>
+<mat-form-field>
+  <mat-label>Price</mat-label>
+  <input type="number" matInput required formControlName="price" required>
+</mat-form-field>
+<mat-form-field>
+  <mat-label>Size</mat-label>
+  <input matInput required formControlName="size">
+  <mat-hint align="end">XS,S,M,L,XL</mat-hint>
+</mat-form-field>
+<mat-form-field>
+  <mat-label>Description</mat-label>
+  <textarea matInput required formControlName="description"></textarea>
+</mat-form-field>
+<div [hidden]="isUpdated">
+  <mat-label>Image</mat-label>
+  <input type="file" (change)="OnFileChange($event)" required>
+</div>
+<mat-dialog-actions>
+  <button mat-raised-button color="primary" (click)="add()">Save</button>
+  <button mat-raised-button color="primary" mat-dialog-close="">Close</button>
+</mat-dialog-actions>
+</form>
+</div>

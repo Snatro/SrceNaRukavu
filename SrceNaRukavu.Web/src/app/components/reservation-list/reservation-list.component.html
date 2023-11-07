@@ -1,0 +1,13 @@
+<mat-grid-list cols="8" rowHeight="2:1" *ngFor="let reservation of reservations">
+  <mat-grid-tile class="product_name">{{reservation.product.name}}</mat-grid-tile>
+  <mat-grid-tile><img src="{{reservation.product.image}}"></mat-grid-tile>
+  <mat-grid-tile>{{reservation.product.price}}€</mat-grid-tile>
+  <mat-grid-tile>{{reservation.product.size}}</mat-grid-tile>
+  <mat-grid-tile>{{reservation.person.name}} {{reservation.person.surname}}</mat-grid-tile>
+  <mat-grid-tile>{{reservation.person.email}}</mat-grid-tile>
+  <mat-grid-tile>{{reservation.person.telephoneNumber}}</mat-grid-tile>
+  <mat-grid-tile>
+    <button mat-raised-button color="primary" (click)="removeReservation(reservation.id)">Remove</button>
+    <button mat-raised-button color="warn" [hidden]="hideButton()" (click)="deleteReservation(reservation.product.id)">Delete</button>
+  </mat-grid-tile>
+</mat-grid-list>

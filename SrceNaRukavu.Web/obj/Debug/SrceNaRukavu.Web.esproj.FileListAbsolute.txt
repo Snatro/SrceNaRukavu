@@ -1,0 +1,2 @@
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Web\obj\Debug\SrceNaRukavu.Web.esproj.SuggestedBindingRedirects.cache
+C:\Users\DSANTRO\Documents\SrceNaRukavu\SrceNaRukavu\SrceNaRukavu.Web\obj\Debug\SrceNaRukavu.Web.esproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+<mat-card>
+  <mat-card-header>
+    <h1>{{product.name}}</h1>
+    </mat-card-header>   
+  <div class="flex">
+    <div class="image-container"><img mat-card-image src="{{product.image}}"></div>
+    <div>
+      <mat-card-content><span class="tag">Description: </span>{{product.description}}</mat-card-content>
+    <mat-card-content><span class="tag">Size: </span>{{product.size}}</mat-card-content>
+    <mat-card-content><span class="tag">Category: </span>{{product.category.name}}</mat-card-content>
+    <mat-card-content><span class="tag">Price: </span>{{product.price}} €</mat-card-content>
+    </div>
+  </div>
+  
+  <mat-card-actions>
+    <button mat-raised-button (click)="reserve()" color="accent">Reserve</button>
+    <button mat-raised-button (click)="edit()" color="primary" [hidden]="hideButtons()">Edit</button>
+    <button mat-raised-button (click)="delete()" color="warn" [hidden]="hideButtons()">Delete</button>
+    <button mat-raised-button (click)="exit()">Go back</button>
+  </mat-card-actions>
+</mat-card>

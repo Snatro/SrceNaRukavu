@@ -1,0 +1,10 @@
+img{
+  width: 70%;
+  height: 100%;
+  object-fit: initial;
+}
+
+.product_name{
+  text-align: center;
+  font-weight: bold;
+}

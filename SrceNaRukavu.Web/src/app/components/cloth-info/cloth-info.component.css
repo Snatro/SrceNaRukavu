@@ -1,0 +1,26 @@
+
+img{
+  width:40%;
+ 
+}
+
+mat-card-header{
+  margin-bottom:1rem;
+  justify-content: center 
+}
+
+.image-container{
+  width:40%;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+}
+
+mat-card-actions{
+  text-align: center;
+}
+
+.tag{
+  font-weight:bold;
+}

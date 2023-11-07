@@ -1,0 +1,21 @@
+<nav class="navbar">
+  <div class="navbar-left">
+    <ul>
+      <li><a routerLink="/ana">Anin odjel</a></li>
+      <li><a routerLink="/prijatelj">Prijateljev odjel</a></li>
+      <li *ngIf="isNotLogged"><a routerLink="/rezervacije">Rezervacije</a></li>
+      <li *ngIf="!isNotLogged"><a routerLink="/login">Login</a></li>
+    </ul>
+  </div>
+  <div class="navbar-right">
+    <div>
+      <span *ngIf="isNotLogged" class="userName">{{userName}}</span>
+      <button mat-flat-button color="primary" (click)="signOut()" *ngIf="isNotLogged">Sign out</button> 
+    </div> 
+    <div>
+      <mat-icon aria-hidden="false" aria-label="Example cart icon" fontIcon="shopping_cart"></mat-icon>
+    <span class="shop-name">Srce na Rukavu</span>
+    </div>  
+    
+  </div>
+</nav>

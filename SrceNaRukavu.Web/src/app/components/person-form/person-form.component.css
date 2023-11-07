@@ -1,0 +1,13 @@
+.vertical-form{
+  display:flex;
+  flex-direction: column;
+}
+body{
+  background-color:white;
+  width:50%;
+  margin:0 auto;
+  padding:6rem;
+}
+h1{
+  text-align: center;
+}
